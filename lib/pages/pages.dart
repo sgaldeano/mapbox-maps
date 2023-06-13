@@ -1,0 +1,1 @@
+export 'package:s18_mapbox_maps/pages/fullscreen_map_page.dart';

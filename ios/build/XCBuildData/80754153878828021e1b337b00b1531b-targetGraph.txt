@@ -1,0 +1,19 @@
+Target dependency graph (7 targets)
+Flutter in Pods, no dependencies
+MapboxMobileEvents in Pods, no dependencies
+Mapbox-iOS-SDK in Pods, depends on:
+MapboxMobileEvents in Pods (explicit)
+MapboxAnnotationExtension in Pods, depends on:
+Mapbox-iOS-SDK in Pods (explicit)
+mapbox_gl in Pods, depends on:
+Flutter in Pods (explicit)
+Mapbox-iOS-SDK in Pods (explicit)
+MapboxAnnotationExtension in Pods (explicit)
+Pods-Runner in Pods, depends on:
+Flutter in Pods (explicit)
+Mapbox-iOS-SDK in Pods (explicit)
+MapboxAnnotationExtension in Pods (explicit)
+MapboxMobileEvents in Pods (explicit)
+mapbox_gl in Pods (explicit)
+Pods-RunnerTests in Pods, depends on:
+Pods-Runner in Pods (explicit)
